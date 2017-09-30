@@ -1,0 +1,4 @@
+indent_size: 4
+indent_type: SPACE
+curly_bracket_style: NEWLINE
+replace_file: TRUE
